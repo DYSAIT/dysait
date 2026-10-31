@@ -9,14 +9,19 @@ description: Planos do portfólio
 
 ### Pacote único (não crie 5 planos)
 
-**"Atendimento 24h"**
-1. Bot no WhatsApp do cliente (número oficial/Meta Cloud API).
-2. Responde dúvidas frequentes (preço, endereço, horário, convênios, serviços).
-3. Qualifica o lead (nome, serviço, urgência).
-4. Agenda no horário livre e grava no sistema do cliente.
-5. Lembrete automático 24h e 2h antes (mata no-show).
-6. Transbordo para humano quando o bot não sabe — com resumo da conversa.
-7. Relatório semanal por WhatsApp: conversas, agendamentos, horários de pico.
+**"Atendimento 24h"** — um processo, executado na ordem:
+
+```
+1. Recepção        Bot no WhatsApp oficial (Meta Cloud API) do cliente
+2. Dúvida          Responde preço, endereço, horário, convênios, serviços
+3. Qualificação    Coleta nome, serviço e urgência
+4. Agendamento     Oferece horário livre e grava no sistema do cliente
+5. Lembrete        24h e 2h antes da consulta (mata no-show)
+6. Transbordo      Humano assume quando o bot não sabe, com resumo da conversa
+7. Gestão          Relatório semanal por WhatsApp: conversas, agendamentos, horários de pico
+```
+
+Etapas 1–5 são automáticas; 6 é humano; 7 é fechamento do ciclo.
 
 **Extras cobrados à parte (nunca de graça):**
 - Segundo canal (Instagram DM) — `R$ 400` setup.
