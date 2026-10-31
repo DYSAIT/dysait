@@ -6,14 +6,14 @@ const servicos = [
   {
     titulo: 'Consultoria',
     texto:
-      'Mapa dos seus 10 processos, com as 3 automações de maior retorno priorizadas. Você sai com plano e ordem de execução, não com relatório bonito.',
+      'Mapeamento dos processos do dia a dia, com as automações de maior retorno apontadas. Você recebe um plano simples, com a ordem de execução.',
     tags: ['Diagnóstico', 'Prioridades', 'Roteiro'],
     icone: 'M12 6.25v13M12 6.25C10.8 5.5 9.2 5 7.5 5S4.2 5.5 3 6.25v13C4.2 18.5 5.8 18 7.5 18s3.3.5 4.5 1.25M12 6.25C13.2 5.5 14.8 5 16.5 5s3.3.5 4.5 1.25v13c-1.2-.75-2.8-1.25-4.5-1.25s-3.3.5-4.5 1.25',
   },
   {
     titulo: 'TI e suporte',
     texto:
-      'Até 5 máquinas monitoradas: backup, atualização e suporte remoto com prazo. Peça e licença ficam no seu nome — você compra, a gente opera.',
+      'Monitoramento das máquinas: backup, atualização e suporte remoto com prazo. Peça e licença ficam no seu nome — você compra, a gente opera.',
     tags: ['Backup', 'Rede', 'SLA'],
     icone: 'M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z',
   },
@@ -38,7 +38,7 @@ const niveis = [
     nome: 'Diagnóstico',
     preco: 'R$ 300',
     nota: 'Pagamento único · creditado no projeto',
-    itens: ['Mapa dos 10 processos', 'Prioridades de automação definidas', 'Plano de 90 dias', '~5h de trabalho'],
+    itens: ['Mapa dos processos', 'Prioridades de automação definidas', 'Plano de 90 dias', '~5h de trabalho'],
   },
   {
     nome: 'Essencial',

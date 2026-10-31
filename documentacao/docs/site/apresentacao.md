@@ -73,7 +73,7 @@ Planos cumulativos: cada nível inclui o anterior.
 
 | Plano | Preço | SLA | O que entrega |
 |---|---|---|---|
-| Diagnóstico | `R$ 300` único, creditado no projeto | — | mapa de 10 processos, prioridades de automação, plano de 90 dias (~5h) |
+| Diagnóstico | `R$ 300` único, creditado no projeto | — | mapa de processos, prioridades de automação, plano de 90 dias (~5h) |
 | Essencial | `R$ 500`/mês | 24h | suporte remoto até 5 máquinas, monitoramento + backup, 1 automação simples, relatório mensal |
 | Operação | `R$ 1.690`/mês | 8h úteis | até 3 automações gerenciadas, até 10 máquinas, ajustes mensais, 15% off em projetos |
 | Parceiro | `R$ 3.290`/mês | 2h | DevOps/cloud, 20h de desenvolvimento/mês, revisão trimestral de roadmap, 15% off em projetos |
@@ -88,6 +88,24 @@ Fora dos planos: hora técnica `R$ 120–150/h`, conforme complexidade.
 - Operação: 8h/mês → `R$ 211/h`.
 - Parceiro: 20h/mês → `R$ 164/h` (20h é teto de contrato; uso médio menor mantém a margem).
 - Salto Essencial → Operação é de 3,4x; se o cliente travar no Essencial, criar degrau intermediário antes de mexer no Parceiro.
+
+## Copy e tom
+
+Regras aplicadas aos textos do site (ficheiro `site/src/App.jsx`):
+
+1. **Sem quantidade nos cards de serviço** — quantidade ("até 5 máquinas", "até 10") aparece só no checklist dos planos, onde é escopo contratado.
+2. **Foco em escopo e entrega** — cada card diz o que o cliente recebe, não o que a empresa "é".
+3. **Tom sóbrio** — sem superlativos, sem "não é relatório bonito", sem promessa de resultado.
+4. **Empresa, não indivíduo** — "equipe especializada", "time inteiro por trás"; nunca "eu" ou profissional solo.
+
+Texto atual dos cards:
+
+| Card | Texto |
+|---|---|
+| Consultoria | Mapeamento dos processos do dia a dia, com as automações de maior retorno apontadas. Você recebe um plano simples, com a ordem de execução. |
+| TI e suporte | Monitoramento das máquinas: backup, atualização e suporte remoto com prazo. Peça e licença ficam no seu nome — você compra, a gente opera. |
+| Automação | Fluxo em n8n com tratamento de erro, idempotência e fallback humano. Falha avisa no nosso WhatsApp antes de o cliente reclamar. |
+| Desenvolvimento | Site, sistema sob medida e integrações entre ERP, CRM, planilha e WhatsApp. Escopo e prazo por escrito, entrega versionada no seu repositório. |
 
 ## Pendências antes de publicar
 

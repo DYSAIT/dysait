@@ -9,7 +9,7 @@ description: Ofertas e regras de precificação
 
 | Oferta | Entrega | Preço | Horas | `R$`/h |
 |---|---|---|---|---|
-| Diagnóstico de processos | Mapa de 10 processos + 3 automações priorizadas por ROI | `R$ 800` (creditado no projeto) | 4 | 200 |
+| Diagnóstico de processos | Mapa de processos + 3 automações priorizadas por ROI | `R$ 800` (creditado no projeto) | 4 | 200 |
 | Automação simples | 1 fluxo, 2 integrações, com tratamento de erro | `R$ 1.200–1.800` | 6–10 | ~180 |
 | Automação multi-etapa | 3+ integrações, lógica condicional, IA no meio | `R$ 2.500–4.000` | 14–20 | ~190 |
 | Bot de atendimento (WhatsApp) | Atende, qualifica, agenda, handoff + relatório | `R$ 1.500` + `R$ 400`/mês | 10 | 150 + recorrente |

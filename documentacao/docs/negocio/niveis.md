@@ -58,7 +58,7 @@ Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de níve
 
 | Nível | Nome | Preço | O que inclui | Horas/mês | Perfil |
 |---|---|---|---|---|---|
-| **1** | **Diagnóstico** | `R$ 300` (avulso, creditado no projeto) | Mapa de 10 processos, prioridades de automação, plano de 90 dias | 5 (única) | Quem ainda não sabe o que precisa |
+| **1** | **Diagnóstico** | `R$ 300` (avulso, creditado no projeto) | Mapa de processos, prioridades de automação, plano de 90 dias | 5 (única) | Quem ainda não sabe o que precisa |
 | **2** | **Essencial** | `R$ 500`/mês | Suporte labor-only até 5 dispositivos, monitoramento, backup configurado, 1 automação simples inclusa, relatório mensal | 4 | PME pequena, dor de TI |
 | **3** | **Operação** | `R$ 1.690`/mês | Nível 2 + até 3 automações gerenciadas, até 10 dispositivos, ajustes inclusos, SLA 8h úteis | 8 | Empresa com processo manual rodando |
 | **4** | **Parceiro de Tecnologia** | `R$ 3.290`/mês | Nível 3 + DevOps/cloud, 20h de desenvolvimento/mês, SLA 2h, revisão trimestral de roadmap | 20 | Empresa que depende de sistema |
