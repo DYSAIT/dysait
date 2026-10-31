@@ -5,7 +5,7 @@ description: Como validar sem gastar
 
 # Métodos de validação
 
-## 17. Os 6 métodos, em ordem de custo/benefício
+## Os 6 métodos, em ordem de custo/benefício
 
 | # | Método | Custo | Tempo | O que prova | Quando usar |
 |---|---|---|---|---|---|
@@ -18,9 +18,9 @@ description: Como validar sem gastar
 
 **Regra:** método 5 é obrigatório. Opinião não paga boleto.
 
-## 18. Desk research — o que levantar e onde
+## Desk research — o que levantar e onde
 
-### 18.1 Tamanho e densidade do nicho (30 min)
+### Tamanho e densidade do nicho (30 min)
 
 Fontes gratuitas:
 - **Google Maps**: buscar `"clínica odontológica" perto de <bairro>`. Contar quantos existem em raio de 5 km. Densidade > 40 = mercado suficiente para 8 clientes.
@@ -28,14 +28,14 @@ Fontes gratuitas:
 - **Sebrae / DataSebrae**: perfil e faturamento médio de micro e pequenas empresas do setor.
 - **Simples Nacional / CNAE**: confirmar que o serviço prestado é atividade permitida no MEI do seu município.
 
-### 18.2 Concorrência e preço (30 min)
+### Concorrência e preço (30 min)
 
 - Buscar no Google: `"atendimento automático whatsapp" <cidade>`, `"chatbot whatsapp" <nicho>`.
 - Listar 10 concorrentes: nome, promessa, preço (se público), o que **não** fazem.
 - Olhar marketplaces e páginas de preço (ManyChat, Take Blip, Huggy, Zappy, bot de agência local).
 - Anotar faixa de preço do mercado: isso define seu posicionamento (você quer ser 3–5× menor que agência e mais específico que ferramenta genérica).
 
-### 18.3 Mineração de dor real (2h) — o método mais subestimado
+### Mineração de dor real (2h) — o método mais subestimado
 
 Onde ler o que o cliente fala sem filtro:
 - **Google Reviews** 1–3 estrelas do nicho: buscar "não responde", "demorei", "ninguém atende", "não retornou".
@@ -54,7 +54,7 @@ Onde ler o que o cliente fala sem filtro:
 
 Saída esperada: **10 frases literais** que você vai usar na copy e nos scripts. Cliente se reconhece na própria frase, não na sua.
 
-## 19. Entrevista de descoberta (15 min, 15 pessoas)
+## Entrevista de descoberta (15 min, 15 pessoas)
 
 ### Regras
 - Nunca apresente a solução. Só pergunte. (Se você pitchar, a resposta vira gentileza.)

@@ -5,7 +5,7 @@ description: Custos, projeção e sequência
 
 # Financeiro
 
-## 11. Financeiro
+## Financeiro
 
 ### Custos
 
@@ -33,7 +33,7 @@ description: Custos, projeção e sequência
 - MEI (~`R$ 76`/mês) apenas ao faturar de forma recorrente; verificar atividade permitida no seu município antes.
 - Nunca comprar curso, tráfego ou ferramenta paga antes do 1º pagamento.
 
-## 33. Sequência de 12 meses
+## Sequência de 12 meses
 
 | Período | Foco | Meta |
 |---|---|---|

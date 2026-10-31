@@ -5,7 +5,7 @@ description: Camadas, posicionamento e decisão de serviços
 
 # Modelo de negócio
 
-## 25. A escada de camadas
+## A escada de camadas
 
 | # | Camada | O que vende | Papel no negócio | Recorrente? |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ Suporte (vê processo manual)
 ```
 O suporte é o cavalo de Troia; a automação é o negócio.
 
-## 31. Posicionamento
+## Posicionamento
 
 **Uma marca, uma frase por público.** Nunca um catálogo.
 
@@ -38,7 +38,7 @@ O suporte é o cavalo de Troia; a automação é o negócio.
 
 Suporte, site e sistema entram como consequência, não como cartão de visita.
 
-## 35. Por que serviços, não produto (decisão registrada)
+## Por que serviços, não produto (decisão registrada)
 
 **Decisão:** o negócio é uma **empresa de serviços**. Produto/SaaS fica fora do escopo até haver caixa e repetição comprovada.
 

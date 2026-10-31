@@ -5,7 +5,7 @@ description: Indicadores semanais
 
 # KPIs
 
-## 14. KPIs semanais (planilha, 5 colunas)
+## KPIs semanais (planilha, 5 colunas)
 
 | KPI | Meta |
 |---|---|

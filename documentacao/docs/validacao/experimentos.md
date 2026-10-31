@@ -5,7 +5,7 @@ description: Concierge, pré-venda e piloto medido
 
 # Experimentos
 
-## 20. Concierge MVP — validar entrega sem construir produto
+## Concierge MVP — validar entrega sem construir produto
 
 Antes de escrever uma linha de SaaS multi-tenant:
 1. Escolha 2 negócios simpáticos.
@@ -16,7 +16,7 @@ Antes de escrever uma linha de SaaS multi-tenant:
 
 Só depois automatize. O manual vira o roteiro do bot.
 
-## 21. Pré-venda — o teste decisivo
+## Pré-venda — o teste decisivo
 
 Oferta: *"Vou montar isso para vocês. `R$ 400` de sinal agora, entrego em 7 dias, e a mensalidade começa no 8º dia. Se não entregar no prazo, devolvo o sinal."*
 
@@ -29,7 +29,7 @@ Oferta: *"Vou montar isso para vocês. `R$ 400` de sinal agora, entrego em 7 dia
 
 **Nunca** aceite "vou pensar" como validação. Só dinheiro ou data marcada conta.
 
-## 22. Piloto medido (coorte antes/depois)
+## Piloto medido (coorte antes/depois)
 
 Para cada piloto, coletar 2 semanas antes e 2 depois:
 
@@ -46,11 +46,11 @@ Esse quadro vira **case** e **argumento de renovação**. Sem número, a mensali
 ---
 
 
-> **Nota:** o negócio é de serviços. Esta parte é o desenho do produto que só deve ser construído depois de 10+ clientes com a mesma necessidade repetida (ver seção 35). Até lá, o mesmo atendimento é entregue como **serviço** (setup + mensalidade).
+> **Nota:** o negócio é de serviços. Esta parte é o desenho do produto que só deve ser construído depois de 10+ clientes com a mesma necessidade repetida (ver [Por que serviços, não produto](../negocio/escada.md#por-que-servicos-nao-produto-decisao-registrada)). Até lá, o mesmo atendimento é entregue como **serviço** (setup + mensalidade).
 
 > Você gostou da mensalidade. Então o destino é **produto**, não serviço: serviço tem teto (suas horas), produto escala. Caminho: começar como serviço produtizado → virar SaaS vertical.
 
-## 24. Experimento único para as próximas 2 semanas
+## Experimento único para as próximas 2 semanas
 
 Uma hipótese, um teste, um número:
 

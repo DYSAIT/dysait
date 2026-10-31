@@ -5,7 +5,7 @@ description: Primeiros 72h, 90 dias e 12 meses
 
 # Roadmap
 
-## 16. Primeiras 72 horas (checklist)
+## Primeiras 72 horas (checklist)
 
 - [ ] Escolher 1 nicho (sugestão: clínica odontológica).
 - [ ] Montar Docker + n8n local e subir 1 fluxo de eco no WhatsApp.
@@ -21,7 +21,7 @@ description: Primeiros 72h, 90 dias e 12 meses
 
 > Objetivo: reduzir a chance de construir a coisa errada **sem gastar dinheiro**. Toda pesquisa abaixo custa `R$ 0` e tempo.
 
-## 13. Roadmap 90 dias
+## Roadmap 90 dias
 
 **Semana 1–2 — Produto**
 - Escolher nicho e listar 30 alvos.

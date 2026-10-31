@@ -5,7 +5,7 @@ description: Processo de implantação
 
 # Entrega
 
-## 9. Entrega (SOP de 7 dias)
+## Entrega (SOP de 7 dias)
 
 | Dia | Entrega | Saída |
 |---|---|---|

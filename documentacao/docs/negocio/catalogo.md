@@ -5,7 +5,7 @@ description: Ofertas e regras de precificação
 
 # Catálogo de automação
 
-## 26. Catálogo de automação (preço fechado, nunca por hora)
+## Catálogo de automação (preço fechado, nunca por hora)
 
 | Oferta | Entrega | Preço | Horas | `R$`/h |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ O retainer inclui:
 - relatório: execuções, falhas, tempo economizado
 - orçamento de tokens controlado e repassado
 
-## 27. Regras de precificação
+## Regras de precificação
 
 - **Cobre por resultado, nunca por "hora de IA".** "Reduz 6h/semana de digitação" vale `R$ 3.000.` "Usei IA" não vale nada.
 - **Custo de token é do cliente** (repassado ou embutido com teto). Sem teto, um fluxo mal feito come sua margem.

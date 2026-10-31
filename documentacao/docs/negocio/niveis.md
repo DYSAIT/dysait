@@ -5,7 +5,7 @@ description: Planos do portfólio
 
 # Níveis e preços
 
-## 4. Oferta
+## Oferta
 
 ### Pacote único (não crie 5 planos)
 
@@ -31,7 +31,7 @@ description: Planos do portfólio
 - Suporte 24/7 humano.
 - Troca ilimitada de fluxo (limite: 2 ajustes/mês, depois `R$ 80`/hora).
 
-## 5. Preço e economia unitária
+## Preço e economia unitária
 
 | Faixa | Setup | Mensalidade | Quando usar |
 |---|---|---|---|
@@ -49,7 +49,7 @@ description: Planos do portfólio
 
 **Ponto de equilíbrio:** 1 cliente pago já cobre todos os custos operacionais. 5 clientes = `R$ 2.000`/mês recorrente com ~5h/mês de manutenção.
 
-## 36. Níveis do portfólio (planos)
+## Níveis do portfólio (planos)
 
 Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de nível grátis.
 

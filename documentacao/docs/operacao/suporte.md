@@ -5,7 +5,7 @@ description: Mão de obra, preço e fluxo
 
 # Suporte de TI
 
-## 28. Camada 4 — Suporte labor-only (só mão de obra)
+## Camada 4 — Suporte labor-only (só mão de obra)
 
 Modelo: o cliente compra peça e licença; você opera, mantém e responde.
 
@@ -33,7 +33,7 @@ Referência: 5 dispositivos geram ~2–3h/mês → **`R$ 150–200`/h efetivo**.
 
 **Alavanca única da mão de obra: reduzir horas.** Meta: **70–80% dos chamados resolvidos remoto**. Cada visita presencial come 1h de deslocamento não faturado — agende em bloco, 2 visitas/dia na mesma região.
 
-### 5 regras de ouro
+### regras de ouro
 
 1. **Licença e conta sempre no nome do cliente.** Acesso delegado; nunca dono do billing.
 2. **Você especifica, o cliente compra.** Lista com modelo, link e quantidade por escrito.

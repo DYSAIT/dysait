@@ -5,7 +5,7 @@ description: Riscos e mitigação
 
 # Riscos
 
-## 12. Riscos e mitigação
+## Riscos e mitigação
 
 | Risco | Probabilidade | Impacto | Mitigação |
 |---|---|---|---|
@@ -17,7 +17,7 @@ description: Riscos e mitigação
 | Você não ter tempo | Média | Alto | Máx. 2 noites/semana + 1 dia de fim de semana; 3 pilotos no teto |
 | Concorrente cobrar mais barato | Baixa | Baixo | Concorrer em entrega e resultado medido, não em preço |
 
-## 34. Riscos específicos do modelo completo
+## Riscos específicos do modelo completo
 
 | Risco | Mitigação |
 |---|---|

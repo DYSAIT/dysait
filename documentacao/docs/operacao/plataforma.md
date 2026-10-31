@@ -5,7 +5,7 @@ description: Ferramentas e portal do cliente
 
 # Stack e plataforma
 
-## 6. Stack técnica (custo zero inicial)
+## Stack técnica (custo zero inicial)
 
 | Camada | Ferramenta | Plano | Custo |
 |---|---|---|---|
@@ -36,7 +36,7 @@ WhatsApp (Meta Cloud API) → webhook n8n → normaliza mensagem
 - Fallback: se confiança baixa ou tema clínico/legal → "vou chamar alguém da equipe" + handoff.
 - Guardrails: limite de mensagens/dia, janela de horário, bloqueio de assunto fora do escopo.
 
-## 32. Plataforma (quando e o que)
+## Plataforma (quando e o que)
 
 **Plataforma = um lugar só** onde o cliente abre chamado, vê o que contratou, vê o relatório do mês e paga.
 

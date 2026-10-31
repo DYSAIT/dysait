@@ -5,7 +5,7 @@ description: Go-live com n8n e anti-padrões
 
 # Operação de automação
 
-## 29. Camada de operação — checklist antes do go-live (n8n)
+## Camada de operação — checklist antes do go-live (n8n)
 
 Isso é **DevOps aplicado a automação** e é o que separa você do "cara que monta fluxo".
 
@@ -20,7 +20,7 @@ Isso é **DevOps aplicado a automação** e é o que separa você do "cara que m
 
 Sem os 8, não vai para produção.
 
-## 30. Anti-padrões que queimam reputação
+## Anti-padrões que queimam reputação
 
 | Erro | Consequência |
 |---|---|

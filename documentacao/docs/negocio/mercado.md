@@ -5,7 +5,7 @@ description: Problema, público e por que agora
 
 # Mercado e nicho
 
-## 2. Problema e por que agora
+## Problema e por que agora
 
 **Problema:** PME local (clínica, salão, academia, restaurante, pet shop, oficina) perde conversa fora do horário comercial e demora horas para responder dentro do horário. Cada conversa perdida = 1 agendamento perdido = `R$ 80–400` de receita.
 
@@ -17,7 +17,7 @@ description: Problema, público e por que agora
 
 **Por que agora:** WhatsApp Cloud API grátis até 1.000 conversas/mês, LLM barato, e o dono já entendeu que "bot no zap" existe — mas ninguém entregou bem no bairro dele.
 
-## 3. Público-alvo e nicho
+## Público-alvo e nicho
 
 **Regra:** um nicho por trimestre. Mesmo fluxo, mesmo template, mesma objeção → margem e velocidade.
 

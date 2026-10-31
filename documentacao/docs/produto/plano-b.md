@@ -5,7 +5,7 @@ description: White-label para agências
 
 # Plano B
 
-## 15. Plano B — white-label para agências
+## Plano B — white-label para agências
 
 Se a venda direta a PME travar:
 - Público: agências pequenas, freelancers de marketing, consultores.

@@ -5,13 +5,13 @@ description: Recepção 24h
 
 # Produto SaaS (opcional)
 
-## 23. Produto: "Recepção 24h" — micro-SaaS vertical para clínicas
+## Produto: "Recepção 24h" — micro-SaaS vertical para clínicas
 
 **Uma frase:** o sistema operacional da recepção de clínicas pequenas — atende, qualifica, agenda, lembra e relata, no WhatsApp que o paciente já usa.
 
 **Por que vertical e não genérico:** genérico (ManyChat, Blip) exige que o cliente monte o fluxo. Vertical entrega pronto, com FAQ do setor, vocabulário do setor e métrica do setor. Você cobra por **resultado específico**, não por "automação".
 
-### 23.1 Escopo do MVP (6 coisas, nada além)
+### Escopo do MVP (6 coisas, nada além)
 
 1. **Onboarding guiado** (15 min): o cliente responde 12 perguntas e o sistema gera o bot dele.
 2. **Bot de atendimento** com FAQ + qualificação + handoff humano.
@@ -22,7 +22,7 @@ description: Recepção 24h
 
 **Fora do MVP (não construir):** app mobile, multi-idioma, integração com 5 sistemas de gestão, dashboard analítico avançado, IA que "dá diagnóstico". Nada disso vende no começo.
 
-### 23.2 Planos (mensalidade como núcleo)
+### Planos (mensalidade como núcleo)
 
 | Plano | Preço | Inclui | Alvo |
 |---|---|---|---|
@@ -38,7 +38,7 @@ description: Recepção 24h
 
 **Regra de precificação:** nunca cobrar por "hora de bot". Cobrar por **conversa incluída** + **número de unidades**. Escala com o cliente, não com seu tempo.
 
-### 23.3 Stack do produto (o que muda em relação ao serviço)
+### Stack do produto (o que muda em relação ao serviço)
 
 | Camada | Escolha | Por quê |
 |---|---|---|
@@ -52,7 +52,7 @@ description: Recepção 24h
 
 **Decisão técnica central:** um único deployment, `tenant_id` em tudo, RLS no Supabase, credenciais de WhatsApp por tenant criptografadas. Não faça 1 instância por cliente — isso mata margem e tempo.
 
-### 23.4 Ativação (o que define churn)
+### Ativação (o que define churn)
 
 Meta: **primeiro valor em < 24h**. Checklist:
 - [ ] Conectou número (Embedded Signup)
@@ -63,7 +63,7 @@ Meta: **primeiro valor em < 24h**. Checklist:
 
 Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding é o produto.**
 
-### 23.5 Retenção (mensalidade só sobrevive com prova mensal)
+### Retenção (mensalidade só sobrevive com prova mensal)
 
 - Relatório semanal com **1 número que importa**: "`R$ X` em agendamentos recuperados fora do horário".
 - Revisão mensal de 15 min (vídeo gravado, não call) apontando 1 melhoria.
@@ -73,7 +73,7 @@ Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding �
 
 **Sinais de churn antecipado:** queda de uso 2 semanas seguidas, 0 agendamentos no relatório, dono parou de responder o relatório. Aja nesse sinal, não no cancelamento.
 
-### 23.6 Unit economics do SaaS
+### Unit economics do SaaS
 
 | Métrica | Valor alvo |
 |---|---|
@@ -88,7 +88,7 @@ Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding �
 
 **Breakeven do produto:** ~`R$ 250`/mês de infra → 1 cliente cobre. 30 clientes ≈ **`R$ 9.900`/mês** de MRR com ~10h/semana.
 
-### 23.7 Roadmap serviço → produto (não pule etapa)
+### Roadmap serviço → produto (não pule etapa)
 
 | Fase | Período | O que é | Receita | Objetivo |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding �
 
 **Gatilho para virar SaaS:** quando o **mesmo** fluxo for entregue 3 vezes sem alteração e o tempo de entrega cair abaixo de 3h. Antes disso, produto é distração.
 
-### 23.8 Riscos específicos do produto
+### Riscos específicos do produto
 
 | Risco | Mitigação |
 |---|---|

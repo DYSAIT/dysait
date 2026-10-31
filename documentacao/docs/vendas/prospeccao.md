@@ -5,7 +5,7 @@ description: Scripts, funil e objeções
 
 # Prospecção e venda
 
-## 7. Go-to-market (prospecção sem gastar)
+## Go-to-market (prospecção sem gastar)
 
 ### Canal principal: presencial + WhatsApp direto (conversão 15–25% em piloto)
 
@@ -30,7 +30,7 @@ description: Scripts, funil e objeções
 ### Demo (o ativo mais importante)
 Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta em 3s → agendamento confirmado. Fazer **com o nome do negócio do prospect** antes da abordagem. Custa 5 min e dobra a taxa de resposta.
 
-## 8. Processo de venda (funil)
+## Processo de venda (funil)
 
 | Etapa | Ação | Meta de conversão |
 |---|---|---|

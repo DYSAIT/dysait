@@ -5,7 +5,7 @@ description: Regras operacionais
 
 # Contratos e escopo
 
-## 10. Operação e contratos
+## Operação e contratos
 
 **Contrato de 1 página (mínimo obrigatório):**
 1. Escopo exato (o que está incluído e o que não está).
