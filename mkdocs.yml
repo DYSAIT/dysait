@@ -49,6 +49,8 @@ nav:
       - Modelo de negócio: negocio/escada.md
       - Níveis e preços: negocio/niveis.md
       - Catálogo de automação: negocio/catalogo.md
+  - Site:
+      - Site de apresentação: site/apresentacao.md
   - Validação:
       - Métodos: validacao/metodos.md
       - Experimentos: validacao/experimentos.md

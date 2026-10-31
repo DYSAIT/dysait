@@ -22,8 +22,8 @@ Empresa de serviços de tecnologia para pequenas e médias empresas.
 
 | Nível | Preço | Foco |
 |---|---|---|
-| 1 · Diagnóstico | `R$ 800` (creditado no projeto) | Descobrir o que automatizar |
-| 2 · Essencial | `R$ 690`/mês | TI + 1 automação |
+| 1 · Diagnóstico | `R$ 300` (creditado no projeto) | Descobrir o que automatizar |
+| 2 · Essencial | `R$ 500`/mês | TI + 1 automação |
 | 3 · Operação | `R$ 1.690`/mês | Automações gerenciadas, SLA 8h |
 | 4 · Parceiro | `R$ 3.290`/mês | DevOps + desenvolvimento, SLA 2h |
 

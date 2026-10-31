@@ -50,7 +50,7 @@ description: Planos do portfólio
 - Tempo de entrega: 8–12h total (2–3 noites) → setup ≈ **`R$ 100–150`/hora**
 - Tempo de manutenção: 30–60 min/mês/cliente
 
-**Ponto de equilíbrio:** 1 cliente pago já cobre todos os custos operacionais. 5 clientes = `R$ 2.000`/mês recorrente com ~5h/mês de manutenção.
+**Ponto de equilíbrio:** 1 cliente pago já cobre todos os custos operacionais. 5 clientes no Essencial (R$ 500) = `R$ 2.500`/mês recorrente com ~5h/mês de manutenção.
 
 ## Níveis do portfólio (planos)
 
@@ -58,10 +58,10 @@ Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de níve
 
 | Nível | Nome | Preço | O que inclui | Horas/mês | Perfil |
 |---|---|---|---|---|---|
-| **1** | **Diagnóstico** | `R$ 800` (avulso, creditado no projeto) | Mapa de 10 processos, 3 automações priorizadas por ROI, plano de 90 dias | 4 (única) | Quem ainda não sabe o que precisa |
-| **2** | **Essencial** | `R$ 690`/mês | Suporte labor-only até 5 dispositivos, monitoramento, backup configurado, 1 automação simples inclusa, relatório mensal | 4 | PME pequena, dor de TI |
+| **1** | **Diagnóstico** | `R$ 300` (avulso, creditado no projeto) | Mapa de 10 processos, prioridades de automação, plano de 90 dias | 5 (única) | Quem ainda não sabe o que precisa |
+| **2** | **Essencial** | `R$ 500`/mês | Suporte labor-only até 5 dispositivos, monitoramento, backup configurado, 1 automação simples inclusa, relatório mensal | 4 | PME pequena, dor de TI |
 | **3** | **Operação** | `R$ 1.690`/mês | Nível 2 + até 3 automações gerenciadas, até 10 dispositivos, ajustes inclusos, SLA 8h úteis | 8 | Empresa com processo manual rodando |
-| **4** | **Parceiro de Tecnologia** | `R$ 3.290`/mês | Nível 3 + DevOps/cloud, 8h de desenvolvimento/mês, SLA 2h, revisão trimestral de roadmap | 16 | Empresa que depende de sistema |
+| **4** | **Parceiro de Tecnologia** | `R$ 3.290`/mês | Nível 3 + DevOps/cloud, 20h de desenvolvimento/mês, SLA 2h, revisão trimestral de roadmap | 20 | Empresa que depende de sistema |
 
 **Projetos** (site, sistema, automação grande) são sempre à parte — com **15% de desconto** para níveis 3 e 4.
 
@@ -69,9 +69,9 @@ Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de níve
 
 | Nível | Receita | Custo direto | Margem | `R$`/h efetivo |
 |---|---|---|---|---|
-| 2 | 690 | ~25 | 96% | 172 |
+| 2 | 500 | ~25 | 95% | 167 |
 | 3 | 1.690 | ~45 | 97% | 211 |
-| 4 | 3.290 | ~90 | 97% | 205 |
+| 4 | 3.290 | ~90 | 97% | 164 |
 
 ### Add-ons (vendidos em qualquer nível)
 
