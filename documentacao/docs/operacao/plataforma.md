@@ -21,13 +21,18 @@ description: Ferramentas e portal do cliente
 **Regra de ouro:** nada de VPS, domínio, logo ou CNPJ antes do 1º pagamento. Rode na sua máquina + túnel (Cloudflare Tunnel free) enquanto são ≤3 clientes.
 
 **Arquitetura mínima:**
+
 ```
-WhatsApp (Meta Cloud API) → webhook n8n → normaliza mensagem
-  → LLM (prompt com contexto do negócio + base de FAQ) 
-  → intenção: dúvida | agendar | humano
-  → Supabase (histórico, leads, agendamentos) + Google Calendar
-  → resposta + handoff humano
+WhatsApp → n8n → LLM → intenção → Supabase/Calendar → resposta
 ```
+
+| # | Etapa | Componente | O que faz | Se falhar |
+|---|---|---|---|---|
+| 1 | Entrada | WhatsApp Cloud API | recebe a mensagem no número oficial do cliente | erro de API → resposta neutra e alerta para você |
+| 2 | Orquestração | n8n (webhook) | normaliza a mensagem e aplica idempotência | erro → retry em fila, sem duplicar pedido |
+| 3 | Entendimento | LLM + prompt + base de FAQ | classifica a intenção: dúvida, agendamento ou humano | confiança baixa → transbordo com resumo |
+| 4 | Ação | Supabase + Google Calendar | grava histórico/lead e cria o agendamento | horário ocupado → oferece alternativa |
+| 5 | Saída | WhatsApp | responde e, no transbordo, avisa o dono com o resumo | — |
 
 **Prompt do bot — estrutura fixa:**
 - Persona: assistente do `<nome do negócio>`, tom `<formal/descontraído>`.

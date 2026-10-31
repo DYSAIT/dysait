@@ -43,15 +43,15 @@ Referência: 5 dispositivos geram ~2–3h/mês → **`R$ 150–200`/h efetivo**.
 
 ### Fluxo de atendimento
 
-```
-1. Chamado (WhatsApp/portal) → classifica: remoto | presencial | precisa peça
-2. Remoto primeiro (RustDesk/MeshCentral) → ~70% resolvem aqui
-3. Precisa peça? → você emite especificação (modelo, link, quantidade, prazo)
-4. Cliente compra e avisa → SLA retoma
-5. Instalação/configuração (sua parte)
-6. Registro: feito, horas, próximo passo
-7. Relatório mensal: dispositivos, chamados, horas usadas, horas restantes
-```
+| # | Etapa | O que acontece |
+|---|---|---|
+| 1 | Chamado | WhatsApp/portal → classifica: remoto, presencial ou precisa de peça |
+| 2 | Remoto primeiro | RustDesk/MeshCentral → ~70% resolvem aqui |
+| 3 | Precisa peça? | Você emite especificação (modelo, link, quantidade, prazo) |
+| 4 | Compra | Cliente compra e avisa → SLA retoma |
+| 5 | Instalação | Configuração da sua parte |
+| 6 | Registro | Feito, horas, próximo passo |
+| 7 | Relatório | Mensal: dispositivos, chamados, horas usadas, horas restantes |
 
 ### Ferramentas de operação (custo zero)
 

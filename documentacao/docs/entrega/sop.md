@@ -18,13 +18,31 @@ description: Processo de implantação
 | 6 | Treinamento de 20 min + entrega do manual de 1 página | Aceite por escrito |
 | 7 | Go-live + acompanhamento diário por 7 dias | Primeiras métricas |
 
-**Checklist de qualidade antes do go-live:**
-- [ ] Bot nunca inventa preço nem prazo.
-- [ ] Toda conversa é registrada no Supabase.
-- [ ] Handoff humano testado (com notificação no celular do dono).
-- [ ] Fallback para qualquer erro de API (mensagem neutra, sem travar).
-- [ ] Limite de gasto de tokens configurado.
-- [ ] Backup/exportação dos dados possível.
-- [ ] LGPD: cliente informado que é bot; dados não usados para treinar modelo.
+**Checklist de qualidade antes do go-live** — nenhum item em aberto:
 
-**Pós-entrega:** relatório semanal automático (conversas, agendamentos, taxa de resolução, horários de pico) + revisão mensal de 15 min.
+**Respostas**
+
+- [ ] Bot nunca inventa preço nem prazo
+
+**Dados**
+
+- [ ] Toda conversa é registrada no Supabase
+- [ ] Backup e exportação dos dados disponíveis
+
+**Falhas**
+
+- [ ] Fallback para qualquer erro de API (mensagem neutra, sem travar)
+- [ ] Handoff humano testado, com notificação no celular do dono
+
+**Custo e LGPD**
+
+- [ ] Limite de gasto de tokens configurado
+- [ ] Cliente informado de que está falando com um bot
+- [ ] Dados não usados para treinar modelo
+
+**Pós-entrega:**
+
+| Frequência | Entrega |
+|---|---|
+| Semanal (automático) | Conversas, agendamentos, taxa de resolução, horários de pico |
+| Mensal (15 min) | Revisão com o cliente: números, ajustes e prioridades |

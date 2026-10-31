@@ -69,6 +69,6 @@ nav:
       - KPIs: financeiro/kpis.md
   - Plano:
       - Roadmap: plano/roadmap.md
-  - Produto (opcional):
-      - SaaS: produto/saas.md
-      - Plano B: produto/plano-b.md
+  - Produto e plano B (opcional):
+      - Produto SaaS: produto/saas.md
+      - Plano B (white-label): produto/plano-b.md
