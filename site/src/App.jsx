@@ -38,7 +38,13 @@ const niveis = [
     nome: 'Diagnóstico',
     preco: 'R$ 300',
     nota: 'Pagamento único · creditado no projeto',
-    itens: ['Mapa dos processos', 'Prioridades de automação definidas', 'Plano de 90 dias', '~5h de trabalho'],
+    itens: [
+      'Mapa dos processos',
+      'Prioridades de automação definidas',
+      'Plano de 90 dias',
+      'Relatório final',
+      '~5h de trabalho',
+    ],
   },
   {
     nome: 'Essencial',

@@ -73,7 +73,7 @@ Planos cumulativos: cada nível inclui o anterior.
 
 | Plano | Preço | SLA | O que entrega |
 |---|---|---|---|
-| Diagnóstico | `R$ 300` único, creditado no projeto | — | mapa de processos, prioridades de automação, plano de 90 dias (~5h) |
+| Diagnóstico | `R$ 300` único, creditado no projeto | — | mapa de processos, prioridades de automação, plano de 90 dias, relatório final (~5h) |
 | Essencial | `R$ 500`/mês | 24h | suporte remoto até 5 máquinas, monitoramento + backup, 1 automação simples, relatório mensal |
 | Operação | `R$ 1.690`/mês | 8h úteis | até 3 automações gerenciadas, até 10 máquinas, ajustes mensais, 15% off em projetos |
 | Parceiro | `R$ 3.290`/mês | 2h | DevOps/cloud, 20h de desenvolvimento/mês, revisão trimestral de roadmap, 15% off em projetos |
