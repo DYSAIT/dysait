@@ -1361,7 +1361,7 @@
   <span class="md-ellipsis">
     
   
-    Produto (opcional)
+    Produto e plano B (opcional)
   
 
     
@@ -1377,7 +1377,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Produto (opcional)
+    Produto e plano B (opcional)
   
 
           </label>
@@ -1397,7 +1397,7 @@
   <span class="md-ellipsis">
     
   
-    SaaS
+    Produto SaaS
   
 
     
@@ -1425,7 +1425,7 @@
   <span class="md-ellipsis">
     
   
-    Plano B
+    Plano B (white-label)
   
 
     
@@ -1574,13 +1574,57 @@
 </tbody>
 </table>
 <p><strong>Regra de ouro:</strong> nada de VPS, domínio, logo ou CNPJ antes do 1º pagamento. Rode na sua máquina + túnel (Cloudflare Tunnel free) enquanto são ≤3 clientes.</p>
-<p><strong>Arquitetura mínima:</strong>
-<div class="highlight"><pre><span></span><code>WhatsApp (Meta Cloud API) → webhook n8n → normaliza mensagem
-  → LLM (prompt com contexto do negócio + base de FAQ) 
-  → intenção: dúvida | agendar | humano
-  → Supabase (histórico, leads, agendamentos) + Google Calendar
-  → resposta + handoff humano
-</code></pre></div></p>
+<p><strong>Arquitetura mínima:</strong></p>
+<div class="highlight"><pre><span></span><code>WhatsApp → n8n → LLM → intenção → Supabase/Calendar → resposta
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Etapa</th>
+<th>Componente</th>
+<th>O que faz</th>
+<th>Se falhar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Entrada</td>
+<td>WhatsApp Cloud API</td>
+<td>recebe a mensagem no número oficial do cliente</td>
+<td>erro de API → resposta neutra e alerta para você</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Orquestração</td>
+<td>n8n (webhook)</td>
+<td>normaliza a mensagem e aplica idempotência</td>
+<td>erro → retry em fila, sem duplicar pedido</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Entendimento</td>
+<td>LLM + prompt + base de FAQ</td>
+<td>classifica a intenção: dúvida, agendamento ou humano</td>
+<td>confiança baixa → transbordo com resumo</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Ação</td>
+<td>Supabase + Google Calendar</td>
+<td>grava histórico/lead e cria o agendamento</td>
+<td>horário ocupado → oferece alternativa</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Saída</td>
+<td>WhatsApp</td>
+<td>responde e, no transbordo, avisa o dono com o resumo</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Prompt do bot — estrutura fixa:</strong>
 - Persona: assistente do <code>&lt;nome do negócio&gt;</code>, tom <code>&lt;formal/descontraído&gt;</code>.
 - Contexto: serviços, preços públicos, endereço, horários, convênios, políticas.

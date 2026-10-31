@@ -1350,7 +1350,7 @@
   <span class="md-ellipsis">
     
   
-    Produto (opcional)
+    Produto e plano B (opcional)
   
 
     
@@ -1366,7 +1366,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Produto (opcional)
+    Produto e plano B (opcional)
   
 
           </label>
@@ -1386,7 +1386,7 @@
   <span class="md-ellipsis">
     
   
-    SaaS
+    Produto SaaS
   
 
     
@@ -1414,7 +1414,7 @@
   <span class="md-ellipsis">
     
   
-    Plano B
+    Plano B (white-label)
   
 
     
@@ -1542,15 +1542,46 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Checklist de qualidade antes do go-live:</strong>
-- [ ] Bot nunca inventa preço nem prazo.
-- [ ] Toda conversa é registrada no Supabase.
-- [ ] Handoff humano testado (com notificação no celular do dono).
-- [ ] Fallback para qualquer erro de API (mensagem neutra, sem travar).
-- [ ] Limite de gasto de tokens configurado.
-- [ ] Backup/exportação dos dados possível.
-- [ ] LGPD: cliente informado que é bot; dados não usados para treinar modelo.</p>
-<p><strong>Pós-entrega:</strong> relatório semanal automático (conversas, agendamentos, taxa de resolução, horários de pico) + revisão mensal de 15 min.</p>
+<p><strong>Checklist de qualidade antes do go-live</strong> — nenhum item em aberto:</p>
+<p><strong>Respostas</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Bot nunca inventa preço nem prazo</li>
+</ul>
+<p><strong>Dados</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Toda conversa é registrada no Supabase</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Backup e exportação dos dados disponíveis</li>
+</ul>
+<p><strong>Falhas</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Fallback para qualquer erro de API (mensagem neutra, sem travar)</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Handoff humano testado, com notificação no celular do dono</li>
+</ul>
+<p><strong>Custo e LGPD</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Limite de gasto de tokens configurado</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Cliente informado de que está falando com um bot</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Dados não usados para treinar modelo</li>
+</ul>
+<p><strong>Pós-entrega:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Frequência</th>
+<th>Entrega</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Semanal (automático)</td>
+<td>Conversas, agendamentos, taxa de resolução, horários de pico</td>
+</tr>
+<tr>
+<td>Mensal (15 min)</td>
+<td>Revisão com o cliente: números, ajustes e prioridades</td>
+</tr>
+</tbody>
+</table>
 
 
 

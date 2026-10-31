@@ -1018,10 +1018,21 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#operacao-e-contratos" class="md-nav__link">
+  <a href="#contrato-de-1-pagina-minimo-obrigatorio" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Operação e contratos
+        Contrato de 1 página (mínimo obrigatório)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guardrails-operacionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Guardrails operacionais
       
     </span>
   </a>
@@ -1350,7 +1361,7 @@
   <span class="md-ellipsis">
     
   
-    Produto (opcional)
+    Produto e plano B (opcional)
   
 
     
@@ -1366,7 +1377,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Produto (opcional)
+    Produto e plano B (opcional)
   
 
           </label>
@@ -1386,7 +1397,7 @@
   <span class="md-ellipsis">
     
   
-    SaaS
+    Produto SaaS
   
 
     
@@ -1414,7 +1425,7 @@
   <span class="md-ellipsis">
     
   
-    Plano B
+    Plano B (white-label)
   
 
     
@@ -1462,10 +1473,21 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#operacao-e-contratos" class="md-nav__link">
+  <a href="#contrato-de-1-pagina-minimo-obrigatorio" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Operação e contratos
+        Contrato de 1 página (mínimo obrigatório)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guardrails-operacionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Guardrails operacionais
       
     </span>
   </a>
@@ -1490,21 +1512,91 @@
 
 
 <h1 id="contratos-e-escopo">Contratos e escopo<a class="headerlink" href="#contratos-e-escopo" title="Permanent link">&para;</a></h1>
-<h2 id="operacao-e-contratos">Operação e contratos<a class="headerlink" href="#operacao-e-contratos" title="Permanent link">&para;</a></h2>
-<p><strong>Contrato de 1 página (mínimo obrigatório):</strong>
-1. Escopo exato (o que está incluído e o que não está).
-2. Prazo e critério de aceite.
-3. Preço: setup + mensalidade, vencimento, multa por atraso.
-4. Cancelamento com 30 dias de aviso; dados exportáveis.
-5. Propriedade: dados do cliente são do cliente; código/fluxo é seu (licença de uso).
-6. Limite de suporte: 2 ajustes/mês inclusos; excedente <code>R$ 80</code>/h.
-7. Responsabilidade: você não responde por erro do bot fora do escopo treinado.
-8. LGPD: base legal, retenção, quem é o controlador (o cliente).</p>
-<p><strong>Guardrails operacionais:</strong>
-- Máximo 3 pilotos simultâneos; máximo 8 clientes ativos sozinho.
-- Janela de suporte: 1 horário/dia (ex.: 19h–20h). Fora disso, só emergência de sistema fora do ar.
-- Toda alteração de escopo passa por orçamento por escrito.
-- Cliente inadimplente: bot pausa em 5 dias úteis após aviso.</p>
+<h2 id="contrato-de-1-pagina-minimo-obrigatorio">Contrato de 1 página (mínimo obrigatório)<a class="headerlink" href="#contrato-de-1-pagina-minimo-obrigatorio" title="Permanent link">&para;</a></h2>
+<p>Uma página, oito cláusulas. Se não couber, o escopo não está claro.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Cláusula</th>
+<th>O que precisa estar escrito</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Escopo</td>
+<td>o que está incluído, o que não está e o limite de ajustes</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Prazo e aceite</td>
+<td>data de entrega e o que conta como aprovado</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Preço</td>
+<td>setup + mensalidade, vencimento, multa e juros por atraso</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Cancelamento</td>
+<td>30 dias de aviso; dados exportáveis na saída</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Propriedade</td>
+<td>dados do cliente são do cliente; código e fluxo são seus, com licença de uso</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Suporte</td>
+<td>2 ajustes/mês inclusos; excedente <code>R$ 130</code>/h, sempre com aprovação por escrito</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Responsabilidade</td>
+<td>você não responde por erro do bot fora do escopo treinado</td>
+</tr>
+<tr>
+<td>8</td>
+<td>LGPD</td>
+<td>base legal, prazo de retenção e controlador (o cliente)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="guardrails-operacionais">Guardrails operacionais<a class="headerlink" href="#guardrails-operacionais" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Regra</th>
+<th>Limite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pilotos simultâneos</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Clientes ativos (sozinho)</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Janela de suporte</td>
+<td>1 horário/dia (ex.: 19h–20h); fora disso, só emergência de sistema fora do ar</td>
+</tr>
+<tr>
+<td>Mudança de escopo</td>
+<td>orçamento por escrito antes de executar</td>
+</tr>
+<tr>
+<td>Inadimplência</td>
+<td>aviso formal; bot pausa em 5 dias úteis</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Regra de ouro:</strong> nada de trabalho fora do contrato "para manter o cliente". Cobre por escrito ou recuse — cliente que não aceita orçamento é o que dá prejuízo e dor de cabeça.</p>
 
 
 
