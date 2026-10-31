@@ -9,10 +9,10 @@ description: Camadas, posicionamento e decisão de serviços
 
 | # | Camada | O que vende | Papel no negócio | Recorrente? |
 |---|---|---|---|---|
-| 1 | **Automação + IA** | Fluxos n8n, agentes, bots, integrações | Cunha de entrada e margem | Parcial (retainer) |
-| 2 | **Desenvolvimento** | Site, landing, sistema sob medida | Caixa nos meses sem contrato | Não |
-| 3 | **Infra + DevOps** | Cloud, CI/CD, observabilidade, backup | Margem estável | Sim |
-| 4 | **Suporte labor-only** | TI do dia a dia (só mão de obra) | Âncora, confiança e radar de oportunidades | Sim, ticket baixo |
+| 1 | **Suporte labor-only** | TI do dia a dia (só mão de obra) | Entrada, confiança e radar de oportunidades | Sim, ticket baixo |
+| 2 | **Automação + IA** | Fluxos n8n, agentes, bots, integrações | O negócio: margem e recorrência | Parcial (retainer) |
+| 3 | **Desenvolvimento** | Site, landing, sistema sob medida | Caixa nos meses sem contrato | Não |
+| 4 | **Infra + DevOps** | Cloud, CI/CD, observabilidade, backup | Margem estável | Sim |
 | 5 | **Produto SaaS** | Recepção 24h e similares | Opcional, só na fase 3 | Sim, o melhor |
 
 **Regra de sequência:** no máximo **2 camadas ativas por trimestre**. Só empilha quando a anterior estiver estável.
