@@ -1,8 +1,8 @@
 # Plano de Negócio — Consultoria, Automação, TI (suporte) e Desenvolvimento de Sites e Sistemas
 
 **Versão:** 2.0 · **Data:** 31/10/2026
-**Perfil:** dev com experiência em n8n, IA, chatbots e automação · **Capital inicial:** R$ 0 · **Modelo:** empresa de serviços, mão de obra, sem revenda de peça ou licença
-**Meta:** R$ 2.000–3.000/mês recorrente em 90 dias, sem sair do emprego atual.
+**Perfil:** dev com experiência em n8n, IA, chatbots e automação · **Capital inicial:** `R$ 0` · **Modelo:** empresa de serviços, mão de obra, sem revenda de peça ou licença
+**Meta:** `R$ 2.000–3.000`/mês recorrente em 90 dias, sem sair do emprego atual.
 
 > **Como ler este documento:** as Partes I–III descrevem o produto de entrada (bot de WhatsApp) em detalhe. A **Parte IV** traz o modelo completo do negócio — automação como núcleo, suporte como âncora — e é a referência para posicionamento, preço e operação.
 
@@ -12,9 +12,9 @@
 
 **O que você vende:** consultoria para decidir o que fazer, automação para eliminar o trabalho manual da empresa, TI para manter tudo funcionando e desenvolvimento para o que não existe pronto — com a manutenção disso tudo.
 
-**O que isso inclui:** robôs que conectam os sistemas do cliente (planilha, WhatsApp, ERP, e-mail, agenda), atendente automático que responde e marca horário, e acompanhamento para que nada pare de funcionar. Quando o cliente precisa, você também monta o site, o sistema, cuida do servidor e resolve o computador.
+**O que isso inclui:** programas que fazem o trabalho sozinhos — pegam o pedido que chegou no WhatsApp, no telefone ou na rede social, registram na planilha ou no sistema de controle e avisam a pessoa certa; respondem mensagem e marcam horário sem ninguém digitar. E o resto que a empresa precisa de tecnologia: o site, o sistema, o computador e o servidor — tudo funcionando e com um único responsável: a nossa empresa, especializada em tecnologia.
 
-**Por que o dono paga:** a empresa perde dinheiro com tarefa repetida, mensagem sem resposta e processo desorganizado. Automação devolve horas e evita erro. Cada automação custa de R$ 1.200 a R$ 4.000 para montar e R$ 600 a R$ 1.500 por mês para ficar no ar.
+**Por que o dono paga:** a empresa perde dinheiro com tarefa repetida, mensagem sem resposta e processo desorganizado. Automação devolve horas e evita erro. Cada automação custa entre `R$ 1.200,00` e `R$ 4.000,00` para montar e entre `R$ 600,00` e `R$ 1.500,00` por mês para ficar no ar.
 
 **Como você ganha dinheiro:** quatro formas que se somam — projeto fechado (automação, site, sistema), mensalidade de manutenção, mensalidade do suporte de TI e, no futuro, produto próprio.
 
@@ -24,7 +24,7 @@
 
 **Como conseguir o primeiro cliente:** escolher um tipo de negócio, mostrar uma automação funcionando com o nome daquela empresa, e visitar 30 negócios. Três aceitam testar; um ou dois viram pagantes.
 
-**O passo seguinte:** repetir a mesma entrega com menos esforço, usando template e checklist, e depois passar a execução para um parceiro — para atender 15 clientes sem virar 15 empregos.
+**O passo seguinte:** repetir a mesma entrega com menos esforço, usando template e checklist, e crescer com apoio de execução terceirizada **sob a sua marca** — o cliente continua sendo seu, e você atende 15 sem virar 15 empregos.
 
 **A regra do jogo:** você vende **serviço**, não produto. Produto só entra depois, como consequência de um serviço que já se repete. Não gaste antes do primeiro pagamento; não compre peça nem licença pelo cliente; não entregue nada fora do combinado; prove resultado com número, não com elogio.
 
@@ -44,19 +44,19 @@ Diferencial: você não vende "IA" nem "hora de suporte" — vende **trabalho ma
 
 | Item | Valor |
 |---|---|
-| Investimento inicial | **R$ 0** (até o 1º cliente pago) |
-| Custo por cliente ativo | R$ 5–30/mês (tokens + infra rateada) |
-| Projeto de automação | R$ 1.200–4.000 |
-| Retainer de automações | R$ 600–1.500/mês |
-| Suporte labor-only | R$ 450–1.000/mês (pacote remoto) |
-| Meta 90 dias | 1 retainer + 2 projetos + 2 suportes → R$ 2.500–3.500/mês |
+| Investimento inicial | **`R$ 0`** (até o 1º cliente pago) |
+| Custo por cliente ativo | `R$ 5–30`/mês (tokens + infra rateada) |
+| Projeto de automação | `R$ 1.200–4.000` |
+| Retainer de automações | `R$ 600–1.500`/mês |
+| Suporte labor-only | `R$ 450–1.000`/mês (pacote remoto) |
+| Meta 90 dias | 1 retainer + 2 projetos + 2 suportes → `R$ 2.500–3.500`/mês |
 | Tempo semanal necessário | 8–12h |
 
 ---
 
 ## 2. Problema e por que agora
 
-**Problema:** PME local (clínica, salão, academia, restaurante, pet shop, oficina) perde conversa fora do horário comercial e demora horas para responder dentro do horário. Cada conversa perdida = 1 agendamento perdido = R$ 80–400 de receita.
+**Problema:** PME local (clínica, salão, academia, restaurante, pet shop, oficina) perde conversa fora do horário comercial e demora horas para responder dentro do horário. Cada conversa perdida = 1 agendamento perdido = `R$ 80–400` de receita.
 
 **Sinais concretos** (validar antes de vender, 15 min de pesquisa):
 - Instagram/Google com "respondemos em até 24h".
@@ -74,11 +74,11 @@ Diferencial: você não vende "IA" nem "hora de suporte" — vende **trabalho ma
 
 | Nicho | Dor principal | Ticket médio do cliente | Facilidade de fechar |
 |---|---|---|---|
-| Clínica odontológica | Falta de horário / no-show | R$ 150–400/consulta | Alta (já gastam com marketing) |
-| Salão / barbearia | Agenda furada, mensagem ignorada | R$ 40–120 | Alta (volume, decisão rápida) |
-| Academia / studio | Retenção, aula experimental perdida | R$ 80–150/mês | Média |
-| Restaurante | Reserva e pedido fora do horário | R$ 60–200 | Baixa (margem apertada) |
-| Pet shop / oficina | Orçamento demorado | R$ 100–300 | Média |
+| Clínica odontológica | Falta de horário / no-show | `R$ 150–400`/consulta | Alta (já gastam com marketing) |
+| Salão / barbearia | Agenda furada, mensagem ignorada | `R$ 40–120` | Alta (volume, decisão rápida) |
+| Academia / studio | Retenção, aula experimental perdida | `R$ 80–150`/mês | Média |
+| Restaurante | Reserva e pedido fora do horário | `R$ 60–200` | Baixa (margem apertada) |
+| Pet shop / oficina | Orçamento demorado | `R$ 100–300` | Média |
 
 **Escolha sugerida para começar:** clínicas odontológicas (2–4 cadeiras, dono presente, já investem em tráfego pago — você conversa com quem entende de custo por lead).
 
@@ -105,17 +105,17 @@ Diferencial: você não vende "IA" nem "hora de suporte" — vende **trabalho ma
 7. Relatório semanal por WhatsApp: conversas, agendamentos, horários de pico.
 
 **Extras cobrados à parte (nunca de graça):**
-- Segundo canal (Instagram DM) — R$ 400 setup.
-- Integração com sistema de gestão do cliente — R$ 600–1.200.
-- Recuperação de paciente inativo (campanha) — R$ 300.
-- Landing page + Google Meu Negócio — R$ 500.
+- Segundo canal (Instagram DM) — `R$ 400` setup.
+- Integração com sistema de gestão do cliente — `R$ 600–1.200.`
+- Recuperação de paciente inativo (campanha) — `R$ 300.`
+- Landing page + Google Meu Negócio — `R$ 500.`
 
 ### O que NÃO entra no escopo
 
 - Gestão de tráfego pago.
 - Criação de conteúdo/redes sociais.
 - Suporte 24/7 humano.
-- Troca ilimitada de fluxo (limite: 2 ajustes/mês, depois R$ 80/hora).
+- Troca ilimitada de fluxo (limite: 2 ajustes/mês, depois `R$ 80`/hora).
 
 ---
 
@@ -123,19 +123,19 @@ Diferencial: você não vende "IA" nem "hora de suporte" — vende **trabalho ma
 
 | Faixa | Setup | Mensalidade | Quando usar |
 |---|---|---|---|
-| Piloto (3 primeiros) | R$ 0 | R$ 0 por 14 dias | Só em troca de depoimento + métricas + permissão de case |
-| Entrada | R$ 800 | R$ 300 | 1 canal, fluxo padrão |
-| Padrão | R$ 1.200 | R$ 400 | 1 canal + lembretes + relatório |
-| Completo | R$ 1.500 | R$ 600 | 2 canais + integração simples |
+| Piloto (3 primeiros) | `R$ 0` | `R$ 0` por 14 dias | Só em troca de depoimento + métricas + permissão de case |
+| Entrada | `R$ 800` | `R$ 300` | 1 canal, fluxo padrão |
+| Padrão | `R$ 1.200` | `R$ 400` | 1 canal + lembretes + relatório |
+| Completo | `R$ 1.500` | `R$ 600` | 2 canais + integração simples |
 
-**Economia por cliente (padrão R$ 1.200 + R$ 400/mês):**
+**Economia por cliente (padrão `R$ 1.200` + `R$ 400`/mês):**
 
-- Receita mês 1: R$ 1.600 · Custo mês 1: ~R$ 25 (tokens infra rateada) → **margem ~98%**
-- Receita mês 2+: R$ 400 · Custo: R$ 15–25 → **margem ~95%**
-- Tempo de entrega: 8–12h total (2–3 noites) → setup ≈ **R$ 100–150/hora**
+- Receita mês 1: `R$ 1.600` · Custo mês 1: ~`R$ 25` (tokens infra rateada) → **margem ~98%**
+- Receita mês 2+: `R$ 400` · Custo: `R$ 15–25` → **margem ~95%**
+- Tempo de entrega: 8–12h total (2–3 noites) → setup ≈ **`R$ 100–150`/hora**
 - Tempo de manutenção: 30–60 min/mês/cliente
 
-**Ponto de equilíbrio:** 1 cliente pago já cobre todos os custos operacionais. 5 clientes = R$ 2.000/mês recorrente com ~5h/mês de manutenção.
+**Ponto de equilíbrio:** 1 cliente pago já cobre todos os custos operacionais. 5 clientes = `R$ 2.000`/mês recorrente com ~5h/mês de manutenção.
 
 ---
 
@@ -143,14 +143,14 @@ Diferencial: você não vende "IA" nem "hora de suporte" — vende **trabalho ma
 
 | Camada | Ferramenta | Plano | Custo |
 |---|---|---|---|
-| Orquestração | n8n self-host (Docker) | Community | R$ 0 |
-| WhatsApp | Meta Cloud API | 1.000 conversas/mês grátis | R$ 0 |
-| LLM | API (modelo pequeno/médio) | pay-per-use | R$ 3–15/cliente |
-| Banco/agenda | Supabase | Free | R$ 0 |
-| Landing + painel | Next.js + Cloudflare Pages | Free | R$ 0 |
-| Automação de agenda | Google Calendar API | Free | R$ 0 |
-| Monitoramento | UptimeRobot | Free | R$ 0 |
-| VPS (só na fase 2) | Hetzner/Contabo | 2 vCPU/4GB | ~R$ 25–35/mês |
+| Orquestração | n8n self-host (Docker) | Community | `R$ 0` |
+| WhatsApp | Meta Cloud API | 1.000 conversas/mês grátis | `R$ 0` |
+| LLM | API (modelo pequeno/médio) | pay-per-use | `R$ 3–15`/cliente |
+| Banco/agenda | Supabase | Free | `R$ 0` |
+| Landing + painel | Next.js + Cloudflare Pages | Free | `R$ 0` |
+| Automação de agenda | Google Calendar API | Free | `R$ 0` |
+| Monitoramento | UptimeRobot | Free | `R$ 0` |
+| VPS (só na fase 2) | Hetzner/Contabo | 2 vCPU/4GB | ~`R$ 25–35`/mês |
 
 **Regra de ouro:** nada de VPS, domínio, logo ou CNPJ antes do 1º pagamento. Rode na sua máquina + túnel (Cloudflare Tunnel free) enquanto são ≤3 clientes.
 
@@ -211,7 +211,7 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 
 **Objeções e resposta:**
 - *"Já tenho secretária."* → "Ótimo, o bot atende quando ela não pode: noite, almoço, domingo. Ela passa a cuidar de quem já quer marcar."
-- *"É caro."* → "Quantos agendamentos você perde por semana? `<1 por semana × R$ 200 = R$ 800/mês>`. O mensal é R$ 400."
+- *"É caro."* → "Quantos agendamentos você perde por semana? Um só, a `R$ 200`, já dá `R$ 800`/mês. O mensal é `R$ 400`."
 - *"Vou pensar."* → "Faz sentido. Posso deixar rodando 14 dias de graça com seu número? Se não gostar, desligo e não cobro nada."
 - *"AI vai falar bobagem."* → "Ela só responde o que está na sua lista de FAQ. Assunto clínico ou fora da lista vai direto pra você. E você recebe o histórico de tudo."
 - *"Meu cliente prefere humano."* → "O bot qualifica e chama humano na hora que o cliente pedir. Ninguém fica preso."
@@ -254,7 +254,7 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 3. Preço: setup + mensalidade, vencimento, multa por atraso.
 4. Cancelamento com 30 dias de aviso; dados exportáveis.
 5. Propriedade: dados do cliente são do cliente; código/fluxo é seu (licença de uso).
-6. Limite de suporte: 2 ajustes/mês inclusos; excedente R$ 80/h.
+6. Limite de suporte: 2 ajustes/mês inclusos; excedente `R$ 80`/h.
 7. Responsabilidade: você não responde por erro do bot fora do escopo treinado.
 8. LGPD: base legal, retenção, quem é o controlador (o cliente).
 
@@ -272,14 +272,14 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 
 | Fase | Itens | Custo/mês |
 |---|---|---|
-| Fase 0 (0 clientes) | nada | R$ 0 |
-| Fase 1 (1–3 clientes) | tokens + túnel grátis | R$ 15–45 |
-| Fase 2 (4–8 clientes) | VPS + tokens + domínio rateado | R$ 90–160 |
-| Fase 3 (9+) | VPS maior + backup + MEI | R$ 250–400 |
+| Fase 0 (0 clientes) | nada | `R$ 0` |
+| Fase 1 (1–3 clientes) | tokens + túnel grátis | `R$ 15–45` |
+| Fase 2 (4–8 clientes) | VPS + tokens + domínio rateado | `R$ 90–160` |
+| Fase 3 (9+) | VPS maior + backup + MEI | `R$ 250–400` |
 
 ### Projeção conservadora (90 dias)
 
-| Mês | Clientes ativos | Setup (R$) | Recorrente (R$) | Custo | **Lucro** |
+| Mês | Clientes ativos | Setup (`R$`) | Recorrente (`R$`) | Custo | **Lucro** |
 |---|---|---|---|---|---|
 | 1 | 0 (3 pilotos) | 0 | 0 | 30 | **–30** |
 | 2 | 2 | 2.000 | 700 | 45 | **2.655** |
@@ -291,7 +291,7 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 ### Regras de caixa
 - Não antecipar gasto: só VPS quando o 5º cliente entrar.
 - Reservar 30% do recebido para imposto/MEI e imprevisto.
-- MEI (~R$ 76/mês) apenas ao faturar de forma recorrente; verificar atividade permitida no seu município antes.
+- MEI (~`R$ 76`/mês) apenas ao faturar de forma recorrente; verificar atividade permitida no seu município antes.
 - Nunca comprar curso, tráfego ou ferramenta paga antes do 1º pagamento.
 
 ---
@@ -330,7 +330,7 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 **Semana 7–9 — Escala de aquisição**
 - Pedir 2 indicações por cliente.
 - Fechar 1 parceria (contador/gestor de tráfego/designer).
-- Meta: 5 ativos, R$ 1.900/mês recorrente.
+- Meta: 5 ativos, `R$ 1.900`/mês recorrente.
 
 **Semana 10–12 — Estabilização**
 - Documentar SOP (para delegar depois).
@@ -350,7 +350,7 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 | Novos contratos | 1–2/mês |
 | Churn | < 1 cliente/trimestre |
 | Horas de suporte | < 5h/mês total |
-| Recorrente (MRR) | +R$ 400/mês |
+| Recorrente (MRR) | +`R$ 400`/mês |
 
 **Sinal de alerta:** se 2 meses sem fechar contrato, o problema é oferta ou nicho — troque um, não os dois.
 
@@ -360,7 +360,7 @@ Vídeo de 40–60s gravado no celular mostrando: mensagem chegando → resposta 
 
 Se a venda direta a PME travar:
 - Público: agências pequenas, freelancers de marketing, consultores.
-- Oferta: "você vende, eu entrego" — R$ 500–1.500 por projeto.
+- Oferta: "você vende, eu entrego" — `R$ 500–1.500` por projeto.
 - Vantagem: zero prospecção, ticket menor, ciclo mais curto.
 - Uso: ponte de caixa até a recorrência engordar. Não substitui o modelo principal.
 
@@ -381,18 +381,18 @@ Se a venda direta a PME travar:
 
 # PARTE II — Métodos de pesquisa e validação
 
-> Objetivo: reduzir a chance de construir a coisa errada **sem gastar dinheiro**. Toda pesquisa abaixo custa R$ 0 e tempo.
+> Objetivo: reduzir a chance de construir a coisa errada **sem gastar dinheiro**. Toda pesquisa abaixo custa `R$ 0` e tempo.
 
 ## 17. Os 6 métodos, em ordem de custo/benefício
 
 | # | Método | Custo | Tempo | O que prova | Quando usar |
 |---|---|---|---|---|---|
-| 1 | Desk research (dados públicos) | R$ 0 | 2–3h | Tamanho de mercado, nicho denso, concorrência, preço | Antes de tudo |
-| 2 | Mineração de dor (reviews/comentários) | R$ 0 | 2h | Frequência e linguagem real do problema | Antes de tudo |
-| 3 | Entrevista de descoberta (15 min) | R$ 0 | 5–8h | Se a dor é cara e recorrente | Semana 1 |
-| 4 | Concierge MVP (bot manual) | R$ 0 | 3–5 dias | Se a entrega resolve de verdade | Semana 1–2 |
-| 5 | Pré-venda (cobrar antes de construir) | R$ 0 | 1 semana | **Única prova real de disposição a pagar** | Semana 2–3 |
-| 6 | Coorte de piloto (medição antes/depois) | R$ 0 | 2–4 semanas | Impacto quantificado + material de venda | Semana 3–6 |
+| 1 | Desk research (dados públicos) | `R$ 0` | 2–3h | Tamanho de mercado, nicho denso, concorrência, preço | Antes de tudo |
+| 2 | Mineração de dor (reviews/comentários) | `R$ 0` | 2h | Frequência e linguagem real do problema | Antes de tudo |
+| 3 | Entrevista de descoberta (15 min) | `R$ 0` | 5–8h | Se a dor é cara e recorrente | Semana 1 |
+| 4 | Concierge MVP (bot manual) | `R$ 0` | 3–5 dias | Se a entrega resolve de verdade | Semana 1–2 |
+| 5 | Pré-venda (cobrar antes de construir) | `R$ 0` | 1 semana | **Única prova real de disposição a pagar** | Semana 2–3 |
+| 6 | Coorte de piloto (medição antes/depois) | `R$ 0` | 2–4 semanas | Impacto quantificado + material de venda | Semana 3–6 |
 
 **Regra:** método 5 é obrigatório. Opinião não paga boleto.
 
@@ -455,7 +455,7 @@ Saída esperada: **10 frases literais** que você vai usar na copy e nos scripts
 7. "Já perdeu cliente por demora ou por esquecimento de horário? Consegue lembrar de um caso?"
 8. "O que você já tentou para resolver isso? Quanto pagou / por que parou?"
 9. "Se isso fosse resolvido, o que mudaria no seu mês?"
-10. "Quanto você acha justo pagar por mês por algo que resolvesse isso?" *(só no fim; ignore respostas acima de R$ 800 — é fantasia)*
+10. "Quanto você acha justo pagar por mês por algo que resolvesse isso?" *(só no fim; ignore respostas acima de `R$ 800` — é fantasia)*
 
 ### Como pontuar (planilha: 1 ponto por "sim")
 
@@ -490,7 +490,7 @@ Só depois automatize. O manual vira o roteiro do bot.
 
 ## 21. Pré-venda — o teste decisivo
 
-Oferta: *"Vou montar isso para vocês. R$ 400 de sinal agora, entrego em 7 dias, e a mensalidade começa no 8º dia. Se não entregar no prazo, devolvo o sinal."*
+Oferta: *"Vou montar isso para vocês. `R$ 400` de sinal agora, entrego em 7 dias, e a mensalidade começa no 8º dia. Se não entregar no prazo, devolvo o sinal."*
 
 | Resultado em 15 abordagens | Leitura | Ação |
 |---|---|---|
@@ -546,15 +546,15 @@ Esse quadro vira **case** e **argumento de renovação**. Sem número, a mensali
 
 | Plano | Preço | Inclui | Alvo |
 |---|---|---|---|
-| **Essencial** | R$ 197/mês | 1 número, 500 conversas/mês, FAQ, agendamento, lembrete, relatório | consultório 1 cadeira |
-| **Clínica** | R$ 397/mês | 1.500 conversas, 2 usuários, handoff, relatório + revisão mensal | 2–4 cadeiras |
-| **Rede** | R$ 697/mês | 3.000 conversas, multi-unidade, integração simples, suporte prioritário | 2+ unidades |
+| **Essencial** | `R$ 197`/mês | 1 número, 500 conversas/mês, FAQ, agendamento, lembrete, relatório | consultório 1 cadeira |
+| **Clínica** | `R$ 397`/mês | 1.500 conversas, 2 usuários, handoff, relatório + revisão mensal | 2–4 cadeiras |
+| **Rede** | `R$ 697`/mês | 3.000 conversas, multi-unidade, integração simples, suporte prioritário | 2+ unidades |
 
-**Setup:** R$ 0 no self-serve (você quer ativação rápida) · R$ 497 no "implantação assistida" (você configura junto).
+**Setup:** `R$ 0` no self-serve (você quer ativação rápida) · `R$ 497` no "implantação assistida" (você configura junto).
 
-**Anual:** 2 meses grátis (R$ 1.970 / R$ 3.970) → caixa adiantado e churn menor.
+**Anual:** 2 meses grátis (`R$ 1.970` / `R$ 3.970`) → caixa adiantado e churn menor.
 
-**Add-ons:** número extra R$ 97/mês · Instagram DM R$ 147/mês · campanha de reativação R$ 300 · integração com sistema de gestão R$ 600–1.200 (única).
+**Add-ons:** número extra `R$ 97`/mês · Instagram DM `R$ 147`/mês · campanha de reativação `R$ 300` · integração com sistema de gestão `R$ 600–1.200` (única).
 
 **Regra de precificação:** nunca cobrar por "hora de bot". Cobrar por **conversa incluída** + **número de unidades**. Escala com o cliente, não com seu tempo.
 
@@ -585,7 +585,7 @@ Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding �
 
 ### 23.5 Retenção (mensalidade só sobrevive com prova mensal)
 
-- Relatório semanal com **1 número que importa**: "R$ X em agendamentos recuperados fora do horário".
+- Relatório semanal com **1 número que importa**: "`R$ X` em agendamentos recuperados fora do horário".
 - Revisão mensal de 15 min (vídeo gravado, não call) apontando 1 melhoria.
 - Comparativo mês a mês ("você atendeu 38 conversas a mais que em setembro").
 - Aviso proativo quando algo quebra — nunca espere o cliente notar.
@@ -597,22 +597,22 @@ Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding �
 
 | Métrica | Valor alvo |
 |---|---|
-| Ticket médio (ARPU) | R$ 330/mês |
-| Custo variável/cliente | R$ 18–30/mês (tokens + infra + WhatsApp) |
+| Ticket médio (ARPU) | `R$ 330`/mês |
+| Custo variável/cliente | `R$ 18–30`/mês (tokens + infra + WhatsApp) |
 | Margem bruta | ~92% |
-| CAC (orgânico, sem ads) | R$ 40–120 (tempo) |
+| CAC (orgânico, sem ads) | `R$ 40–120` (tempo) |
 | Payback | < 1 mês |
-| LTV (churn 4%/mês) | ~R$ 8.250 |
+| LTV (churn 4%/mês) | ~`R$ 8.250` |
 | LTV/CAC | > 20× (é o que justifica não gastar em ads no início) |
 | Churn alvo | < 4%/mês |
 
-**Breakeven do produto:** ~R$ 250/mês de infra → 1 cliente cobre. 30 clientes ≈ **R$ 9.900/mês** de MRR com ~10h/semana.
+**Breakeven do produto:** ~`R$ 250`/mês de infra → 1 cliente cobre. 30 clientes ≈ **`R$ 9.900`/mês** de MRR com ~10h/semana.
 
 ### 23.7 Roadmap serviço → produto (não pule etapa)
 
 | Fase | Período | O que é | Receita | Objetivo |
 |---|---|---|---|---|
-| 0 | Semana 1–2 | Concierge manual | R$ 0 | Descobrir o fluxo real |
+| 0 | Semana 1–2 | Concierge manual | `R$ 0` | Descobrir o fluxo real |
 | 1 | Semana 3–8 | Serviço produtizado (n8n, 1 tenant por cliente) | setup + mensalidade | Caixa e 3–5 cases |
 | 2 | Mês 3–5 | SaaS vertical, onboarding self-serve, billing | mensalidade | Reduzir seu tempo por cliente |
 | 3 | Mês 6–12 | Add-ons, integrações, 2º nicho (salão/academia) | mensalidade + add-ons | Escala |
@@ -635,8 +635,8 @@ Se o cliente não completa isso em 7 dias, ele cancela no mês 2. **Onboarding �
 
 Uma hipótese, um teste, um número:
 
-> **Hipótese:** donos de clínica odontológica pequena pagam R$ 400/mês para reduzir no-show e responder fora do horário.
-> **Teste:** 15 entrevistas de descoberta + oferta de pré-venda de sinal R$ 400 para 5 delas.
+> **Hipótese:** donos de clínica odontológica pequena pagam `R$ 400`/mês para reduzir no-show e responder fora do horário.
+> **Teste:** 15 entrevistas de descoberta + oferta de pré-venda de sinal `R$ 400` para 5 delas.
 > **Critério de sucesso:** 3 entrevistas com 8+ pontos **e** 2 sinais pagos.
 > **Critério de falha:** < 5 entrevistas com 6+ pontos → trocar nicho.
 > **Prazo:** 14 dias. Sem prorrogação.
@@ -676,15 +676,15 @@ O suporte é o cavalo de Troia; a automação é o negócio.
 
 ## 26. Catálogo de automação (preço fechado, nunca por hora)
 
-| Oferta | Entrega | Preço | Horas | R$/h |
+| Oferta | Entrega | Preço | Horas | `R$`/h |
 |---|---|---|---|---|
-| Diagnóstico de processos | Mapa de 10 processos + 3 automações priorizadas por ROI | R$ 800 (creditado no projeto) | 4 | 200 |
-| Automação simples | 1 fluxo, 2 integrações, com tratamento de erro | R$ 1.200–1.800 | 6–10 | ~180 |
-| Automação multi-etapa | 3+ integrações, lógica condicional, IA no meio | R$ 2.500–4.000 | 14–20 | ~190 |
-| Bot de atendimento (WhatsApp) | Atende, qualifica, agenda, handoff + relatório | R$ 1.500 + R$ 400/mês | 10 | 150 + recorrente |
-| Agente IA com base de conhecimento | RAG sobre documentos do cliente, com guardrails | R$ 4.000–8.000 | 25–40 | ~200 |
-| Integração entre sistemas | ERP ↔ CRM ↔ planilha ↔ e-mail ↔ agenda | R$ 1.500–3.500 | 10–18 | ~190 |
-| **Automações gerenciadas** | Monitoramento, ajustes, até N fluxos, tokens até X | **R$ 600–1.500/mês** | 3–6/mês | 200+ |
+| Diagnóstico de processos | Mapa de 10 processos + 3 automações priorizadas por ROI | `R$ 800` (creditado no projeto) | 4 | 200 |
+| Automação simples | 1 fluxo, 2 integrações, com tratamento de erro | `R$ 1.200–1.800` | 6–10 | ~180 |
+| Automação multi-etapa | 3+ integrações, lógica condicional, IA no meio | `R$ 2.500–4.000` | 14–20 | ~190 |
+| Bot de atendimento (WhatsApp) | Atende, qualifica, agenda, handoff + relatório | `R$ 1.500` + `R$ 400`/mês | 10 | 150 + recorrente |
+| Agente IA com base de conhecimento | RAG sobre documentos do cliente, com guardrails | `R$ 4.000–8.000` | 25–40 | ~200 |
+| Integração entre sistemas | ERP ↔ CRM ↔ planilha ↔ e-mail ↔ agenda | `R$ 1.500–3.500` | 10–18 | ~190 |
+| **Automações gerenciadas** | Monitoramento, ajustes, até N fluxos, tokens até X | **`R$ 600–1.500`/mês** | 3–6/mês | 200+ |
 
 **O produto recorrente aqui é o retainer de automações gerenciadas.** É o que justifica mensalidade em automação — e quase ninguém vende bem.
 
@@ -706,7 +706,7 @@ O retainer inclui:
 
 ## 27. Regras de precificação
 
-- **Cobre por resultado, nunca por "hora de IA".** "Reduz 6h/semana de digitação" vale R$ 3.000. "Usei IA" não vale nada.
+- **Cobre por resultado, nunca por "hora de IA".** "Reduz 6h/semana de digitação" vale `R$ 3.000.` "Usei IA" não vale nada.
 - **Custo de token é do cliente** (repassado ou embutido com teto). Sem teto, um fluxo mal feito come sua margem.
 - **Mudança de escopo = novo orçamento.** Automação atrai "só inclui mais uma coisinha" sem limite.
 - **Nunca venda automação sem diagnóstico.** Sem mapear processo, você automatiza o processo errado e vira refém.
@@ -732,14 +732,14 @@ Modelo: o cliente compra peça e licença; você opera, mantém e responde.
 
 | Item | Preço |
 |---|---|
-| Pacote remoto — até 5 dispositivos | R$ 450–600/mês (monitoramento, backup, atualização, suporte remoto) |
-| Pacote remoto — até 10 dispositivos | R$ 750–1.000/mês |
-| Visita presencial | R$ 150–200 (inclui 1h; excedente R$ 120/h) |
-| Diagnóstico avulso (sem contrato) | R$ 120–180 |
-| Formatação/reinstalação com backup | R$ 250–350 |
-| Hora avulsa | R$ 120–150 |
+| Pacote remoto — até 5 dispositivos | `R$ 450–600`/mês (monitoramento, backup, atualização, suporte remoto) |
+| Pacote remoto — até 10 dispositivos | `R$ 750–1.000`/mês |
+| Visita presencial | `R$ 150–200` (inclui 1h; excedente `R$ 120`/h) |
+| Diagnóstico avulso (sem contrato) | `R$ 120–180` |
+| Formatação/reinstalação com backup | `R$ 250–350` |
+| Hora avulsa | `R$ 120–150` |
 
-Referência: 5 dispositivos geram ~2–3h/mês → **R$ 150–200/h efetivo**.
+Referência: 5 dispositivos geram ~2–3h/mês → **`R$ 150–200`/h efetivo**.
 
 **Alavanca única da mão de obra: reduzir horas.** Meta: **70–80% dos chamados resolvidos remoto**. Cada visita presencial come 1h de deslocamento não faturado — agende em bloco, 2 visitas/dia na mesma região.
 
@@ -767,11 +767,11 @@ Referência: 5 dispositivos geram ~2–3h/mês → **R$ 150–200/h efetivo**.
 
 | Função | Ferramenta | Custo |
 |---|---|---|
-| Acesso remoto | RustDesk self-host ou MeshCentral | R$ 0 |
-| Monitoramento/inventário | Tactical RMM (community) ou Uptime Kuma | R$ 0 |
-| Chamados | Chatwoot / Notion / ClickUp free | R$ 0 |
-| Senhas | Vaultwarden | R$ 0 |
-| Documentação do cliente | Docmost / Outline | R$ 0 |
+| Acesso remoto | RustDesk self-host ou MeshCentral | `R$ 0` |
+| Monitoramento/inventário | Tactical RMM (community) ou Uptime Kuma | `R$ 0` |
+| Chamados | Chatwoot / Notion / ClickUp free | `R$ 0` |
+| Senhas | Vaultwarden | `R$ 0` |
+| Documentação do cliente | Docmost / Outline | `R$ 0` |
 | Cobrança recorrente | Assaas / Pix | taxa por transação |
 
 Tudo na mesma VPS do n8n — infra compartilhada, custo dividido.
@@ -857,10 +857,10 @@ Não é produto — é **ferramenta de retenção**. O que retém é o relatóri
 | Período | Foco | Meta |
 |---|---|---|
 | Mês 1–2 | Automação (projetos) + 1 piloto de bot | Caixa, 1 case, zero custo fixo |
-| Mês 3–4 | Automação + 1 retainer gerenciado | 1 contrato recorrente de R$ 1.500 |
-| Mês 5–6 | Retainer + segundo cliente de automação | MRR R$ 2.000 |
-| Mês 7–9 | Suporte labor-only entra como âncora (2–3 clientes) | MRR R$ 4.000, previsível |
-| Mês 10–12 | Plataforma interna + 1º parceiro executor | MRR R$ 6–8k, você fora da entrega |
+| Mês 3–4 | Automação + 1 retainer gerenciado | 1 contrato recorrente de `R$ 1.500` |
+| Mês 5–6 | Retainer + segundo cliente de automação | MRR `R$ 2.000` |
+| Mês 7–9 | Suporte labor-only entra como âncora (2–3 clientes) | MRR `R$ 4.000`, previsível |
+| Mês 10–12 | Plataforma interna + 1º parceiro executor | MRR `R$ 6–8`k, você fora da entrega |
 
 Suporte por último, não primeiro: consome tempo e paga pouco no começo.
 
@@ -887,7 +887,7 @@ Suporte por último, não primeiro: consome tempo e paga pouco no começo.
 | Critério | Serviço | Produto (SaaS) |
 |---|---|---|
 | Caixa no mês 1 | Sim, cobra antes | Não, meses sem receita |
-| Investimento inicial | R$ 0 | Alto (dev, suporte, marketing) |
+| Investimento inicial | `R$ 0` | Alto (dev, suporte, marketing) |
 | Velocidade de aprendizado | Rápida, cliente fala na sua frente | Lenta, precisa de muitos usuários |
 | Teto de crescimento | Suas horas → precisa de equipe/parceiro | Alto, sem teto de horas |
 | Risco principal | Virar gargalo | Nunca achar cliente |
@@ -898,7 +898,7 @@ Suporte por último, não primeiro: consome tempo e paga pouco no começo.
 **Como crescer sem produto:**
 1. **Template** — todo fluxo virou base reutilizável (economiza 60% do tempo).
 2. **Checklist** — entrega padronizada, menos retrabalho.
-3. **Parceiro executor** — você vende e revisa, ele executa; repasse 40–50%.
+3. **Execução terceirizada sob sua marca** — você vende, revisa e responde; o técnico executa (repasse 40–50%). O contrato e o cliente continuam seus.
 4. **Preço por resultado** — sobe ticket em vez de aumentar volume.
 5. **Contrato anual** — caixa adiantado, churn menor.
 
@@ -910,16 +910,16 @@ Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de níve
 
 | Nível | Nome | Preço | O que inclui | Horas/mês | Perfil |
 |---|---|---|---|---|---|
-| **1** | **Diagnóstico** | R$ 800 (avulso, creditado no projeto) | Mapa de 10 processos, 3 automações priorizadas por ROI, plano de 90 dias | 4 (única) | Quem ainda não sabe o que precisa |
-| **2** | **Essencial** | R$ 690/mês | Suporte labor-only até 5 dispositivos, monitoramento, backup configurado, 1 automação simples inclusa, relatório mensal | 4 | PME pequena, dor de TI |
-| **3** | **Operação** | R$ 1.690/mês | Nível 2 + até 3 automações gerenciadas, até 10 dispositivos, ajustes inclusos, SLA 8h úteis | 8 | Empresa com processo manual rodando |
-| **4** | **Parceiro de Tecnologia** | R$ 3.290/mês | Nível 3 + DevOps/cloud, 8h de desenvolvimento/mês, SLA 2h, revisão trimestral de roadmap | 16 | Empresa que depende de sistema |
+| **1** | **Diagnóstico** | `R$ 800` (avulso, creditado no projeto) | Mapa de 10 processos, 3 automações priorizadas por ROI, plano de 90 dias | 4 (única) | Quem ainda não sabe o que precisa |
+| **2** | **Essencial** | `R$ 690`/mês | Suporte labor-only até 5 dispositivos, monitoramento, backup configurado, 1 automação simples inclusa, relatório mensal | 4 | PME pequena, dor de TI |
+| **3** | **Operação** | `R$ 1.690`/mês | Nível 2 + até 3 automações gerenciadas, até 10 dispositivos, ajustes inclusos, SLA 8h úteis | 8 | Empresa com processo manual rodando |
+| **4** | **Parceiro de Tecnologia** | `R$ 3.290`/mês | Nível 3 + DevOps/cloud, 8h de desenvolvimento/mês, SLA 2h, revisão trimestral de roadmap | 16 | Empresa que depende de sistema |
 
 **Projetos** (site, sistema, automação grande) são sempre à parte — com **15% de desconto** para níveis 3 e 4.
 
 ### Referência de margem por nível
 
-| Nível | Receita | Custo direto | Margem | R$/h efetivo |
+| Nível | Receita | Custo direto | Margem | `R$`/h efetivo |
 |---|---|---|---|---|
 | 2 | 690 | ~25 | 96% | 172 |
 | 3 | 1.690 | ~45 | 97% | 211 |
@@ -929,13 +929,13 @@ Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de níve
 
 | Item | Preço |
 |---|---|
-| Dispositivo extra | R$ 60/mês |
-| Automação avulsa simples | R$ 1.200 |
-| Bot de atendimento WhatsApp | R$ 1.500 + R$ 400/mês |
-| Campanha de reativação de clientes | R$ 300 |
-| Relatório executivo extra | R$ 150 |
-| Hora excedente | R$ 130 |
-| Visita presencial | R$ 150–200 |
+| Dispositivo extra | `R$ 60`/mês |
+| Automação avulsa simples | `R$ 1.200` |
+| Bot de atendimento WhatsApp | `R$ 1.500` + `R$ 400`/mês |
+| Campanha de reativação de clientes | `R$ 300` |
+| Relatório executivo extra | `R$ 150` |
+| Hora excedente | `R$ 130` |
+| Visita presencial | `R$ 150–200` |
 
 ### Regras dos níveis
 
@@ -943,7 +943,7 @@ Quatro níveis, um por momento do cliente. Entrada sempre paga — nada de níve
 2. **Upgrade:** a qualquer momento, proporcional.
 3. **Downgrade:** só no aniversário do contrato (evita cliente grande virando pequeno sem aviso).
 4. **Horas não acumulam** entre meses.
-5. **Excedente** cobrado a R$ 130/h, com aprovação por escrito antes.
+5. **Excedente** cobrado a `R$ 130`/h, com aprovação por escrito antes.
 6. **Anual:** 2 meses grátis (caixa adiantado, churn menor).
 7. **SLA definido por nível** — é o que justifica o salto de preço, não a quantidade de itens.
 8. **Máximo 3 níveis ativos** no seu portfólio ao mesmo tempo; mais que isso, ninguém entende sua oferta.
